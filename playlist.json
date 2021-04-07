@@ -1,0 +1,183 @@
+[   
+    {
+        "name": "Basso",
+        "owner": "Bauer Media",
+        "stream": {
+            "default": "aac",
+            "aac": "https://stream.bauermedia.fi/basso/bassoradio_64.aac",
+            "mp3": "https://stream.bauermedia.fi/basso/bassoradio_128.mp3"
+        }
+    },
+
+    {
+        "name": "HitMix",
+        "owner": "Sanoma Media",
+        "stream": {
+            "default": "m3u8",
+            "m3u8": "https://digitacdn.akamaized.net/hls/live/629243/hitmix/master-128000.m3u8"
+        }
+    },
+
+    {
+        "name": "Iskelmä Rauma",
+        "owner": "Bauer Media",
+        "stream": {
+            "default": "aac",
+            "aac": "https://stream.bauermedia.fi/iskelma/rma_64.aac",
+            "mp3": "https://stream.bauermedia.fi/iskelma/rma_128.mp3"
+        }
+    },
+
+    {
+        "name": "Kasari",
+        "owner": "Mediatakojat",
+        "stream": {
+            "default": "aac",
+            "aac": "https://stream.bauermedia.fi/kasari/kasari_64.aac",
+            "mp3": "https://stream.bauermedia.fi/kasari/kasari_128.mp3"
+        }
+    },
+
+    {
+        "name": "Kiss",
+        "owner": "Bauer Media",
+        "stream": {
+            "default": "aac",
+            "aac": "https://stream.bauermedia.fi/kiss/kiss_64.aac",
+            "mp3": "https://stream.bauermedia.fi/kiss/kiss_128.mp3"
+        }
+    },
+
+    {
+        "name": "Loop",
+        "owner": "Sanoma Media",
+        "stream": {
+            "default": "m3u8",
+            "m3u8": "https://digitacdn.akamaized.net/hls/live/629243/loop/master-128000.m3u8"
+        }
+    },
+
+    {
+        "name": "Me Naiset Radio",
+        "owner": "Sanoma Media",
+        "stream": {
+            "default": "m3u8",
+            "m3u8": "https://digitacdn.akamaized.net/hls/live/629243/radioaalto/master-128000.m3u8",
+            "m3u8-future": "https://supla.digitacdn.net/live/_definst_/supla/radioaalto/playlist.m3u8"
+        }
+    },
+    
+    {
+        "name": "NRJ Finland",
+        "owner": "NRJ Group",
+        "stream": {
+            "default": "aac",
+            "aac": "https://stream.bauermedia.fi/nrj/nrj_64.aac",
+            "mp3": "https://stream.bauermedia.fi/nrj/nrj_128.mp3"
+        }
+    },
+
+    {
+        "name": "Radio City",
+        "owner": "Bauer Media",
+        "stream": {
+            "default": "aac",
+            "aac": "https://stream.bauermedia.fi/radiocity/radiocity_64.aac",
+            "mp3": "https://stream.bauermedia.fi/radiocity/radiocity_128.mp3"
+        }
+    },
+
+    {
+        "name": "Radio Nova",
+        "owner": "Bauer Media",
+        "stream": {
+            "default": "aac",
+            "aac": "https://stream.bauermedia.fi/radionova/radionova_64.aac",
+            "mp3": "https://stream.bauermedia.fi/radionova/radionova_128.mp3"
+        }
+    },
+
+    {
+        "name": "Radio Pori",
+        "owner": "Mediatakojat",
+        "stream": {
+            "default":"aac",
+            "aac": "https://stream.bauermedia.fi/radiopori/radiopori_64.aac",
+            "mp3": "https://stream.bauermedia.fi/radiopori/radiopori_128.mp3"
+        }
+    },
+
+    {
+        "name": "Radio Rock",
+        "owner": "Sanoma Media",
+        "stream": {
+            "default": "m3u8",
+            "m3u8": "https://digitacdn.akamaized.net/hls/live/629243/radiorock/master-128000.m3u8"
+        }
+    },
+
+    {
+        "name": "Radio SUN",
+        "owner": "Pirmediat",
+        "stream": {
+            "default": "mp3",
+            "mp3": "https://st.downtime.fi/sun.mp3"
+        }
+    },
+
+    {
+        "name": "Radio Suomipop",
+        "owner": "Sanoma Media",
+        "stream": {
+            "default": "m3u8",
+            "m3u8": "https://digitacdn.akamaized.net/hls/live/629243/radiosuomipop/master-128000.m3u8"
+        }
+    },
+
+    {
+        "name": "SuomiRock",
+        "owner": "Bauer Media",
+        "stream": {
+            "default": "aac",
+            "aac": "https://stream.bauermedia.fi/suomirock/suomirock_64.aac",
+            "mp3": "https://stream.bauermedia.fi/suomirock/suomirock_128.mp3"
+        }
+    },
+    {
+        "name": "SuomiRäp",
+        "owner": "Bauer Media",
+        "stream": {
+            "default": "aac",
+            "aac": "https://stream.bauermedia.fi/basso/rap_64.aac",
+            "mp3": "https://stream.bauermedia.fi/basso/rap_128.mp3"
+        }
+    },
+    {
+        "name": "YLE Satakunnan Radio",
+        "owner": "Yleisradio",
+        "stream": {
+            "default": "m3u8",
+            "m3u8": "https://yleuni-f.akamaihd.net/i/yleliveradiohd_23@113900/master.m3u8"
+        }
+    },
+
+    {
+        "name": "YLE X",
+        "owner": "Yleisradio",
+        "stream": {
+            "default": "m3u8",
+            "m3u8": "https://yleuni-f.akamaihd.net/i/yleliveradiohd_2@113879/master.m3u8"
+        }
+    },
+
+    {
+        "name": "Ysäri",
+        "owner": "Mediatakojat",
+        "stream": {
+            "default": "aac",
+            "aac": "https://stream.bauermedia.fi/ysari/ysari_64.aac",
+            "mp3": "https://stream.bauermedia.fi/ysari/ysari_128.mp3"
+        }
+    }
+
+]
